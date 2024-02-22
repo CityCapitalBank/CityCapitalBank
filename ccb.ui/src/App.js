@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>Welcome to City Capital Bank...</h1>
+      <h1>Welcome to City Capital Bank...</h1>
     </div>
   );
 }
